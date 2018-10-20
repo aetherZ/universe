@@ -9,8 +9,8 @@ description: "My blog and dream." # used by search engines
 theme_settings:
   # Meta
   title: # 
-  avatar: //athelo.net/a9-8.png
-  favicon: //athelo.net/a9-8.png
+  avatar: /a9-8.png
+  favicon: /a9-8.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
