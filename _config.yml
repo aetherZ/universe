@@ -8,9 +8,9 @@ description: "My blog and dream." # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Aezlo's Realm 
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  title: # 
+  avatar: http://athelo.net/a9-8.png
+  favicon: http://athelo.net/a9-8.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
