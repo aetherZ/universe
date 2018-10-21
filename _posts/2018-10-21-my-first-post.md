@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Welcome to AezloU
-tags: [A Tag, Test, Lorem, Ipsum]
+tags: [greetings, intro, online, offline]
 excerpt_separator: <!--more-->
 ---
 
-Welcome to my blog. I just generally post tons of stuff on this space of mine, from github creations to playing games and doing spectacular things
-with them. I came up with the term 'aezlo', about `1 year, 2 months ago`. I came up with the name after remembering the word `aether`, which is Greek for
-sky. 
+Greetings and welcome to my blog. I just generally post tons of stuff on this space of mine, from github creations to playing games and doing spectacular things with them. I came up with the term `aezlo`, about `1 year, 2 months ago`. I came up with the name after remembering the word `aether`, which is Greek for sky. 
 
 I have tons of usernames across the web, some of which are listed below:
  + [Codepen Username](https://codepen.io/aezloU)
