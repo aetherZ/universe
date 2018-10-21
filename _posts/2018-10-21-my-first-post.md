@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to AezloU
-thumbnail: "assets/img/pexels/galaxy.jpg"
+feature-img: "assets/img/pexels/galaxy.jpg"
 tags: [greetings, intro, online, offline]
 excerpt_separator: <!--more-->
 ---
